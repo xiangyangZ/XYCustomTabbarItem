@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MainViewController.h
 //  XYTabbar
 //
 //  Created by 向阳 on 16/11/17.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface MainViewController : UIViewController
 
 @end
-
