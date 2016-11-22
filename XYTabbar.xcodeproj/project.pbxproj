@@ -42,7 +42,6 @@
 		AEF3781F1DDDED4900FFA748 /* ico_xiaoxi_hui.png in Resources */ = {isa = PBXBuildFile; fileRef = AEF378041DDDED4900FFA748 /* ico_xiaoxi_hui.png */; };
 		AEF378201DDDED4900FFA748 /* ico_xiaoxi_hui@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AEF378051DDDED4900FFA748 /* ico_xiaoxi_hui@2x.png */; };
 		AEF378211DDDED4900FFA748 /* ico_xiaoxi_hui@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = AEF378061DDDED4900FFA748 /* ico_xiaoxi_hui@3x.png */; };
-		AEF378241DE3329500FFA748 /* XYView.m in Sources */ = {isa = PBXBuildFile; fileRef = AEF378231DE3329500FFA748 /* XYView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -107,8 +106,6 @@
 		AEF378041DDDED4900FFA748 /* ico_xiaoxi_hui.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ico_xiaoxi_hui.png; sourceTree = "<group>"; };
 		AEF378051DDDED4900FFA748 /* ico_xiaoxi_hui@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ico_xiaoxi_hui@2x.png"; sourceTree = "<group>"; };
 		AEF378061DDDED4900FFA748 /* ico_xiaoxi_hui@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ico_xiaoxi_hui@3x.png"; sourceTree = "<group>"; };
-		AEF378221DE3329500FFA748 /* XYView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XYView.h; sourceTree = "<group>"; };
-		AEF378231DE3329500FFA748 /* XYView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XYView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -166,8 +163,6 @@
 				AEF377E61DDDE86B00FFA748 /* MainViewController.m */,
 				AEF377DC1DDDE7B900FFA748 /* XYTabbar.h */,
 				AEF377DD1DDDE7B900FFA748 /* XYTabbar.m */,
-				AEF378221DE3329500FFA748 /* XYView.h */,
-				AEF378231DE3329500FFA748 /* XYView.m */,
 				AEF377B51DDDE77A00FFA748 /* Assets.xcassets */,
 				AEF377B71DDDE77A00FFA748 /* LaunchScreen.storyboard */,
 				AEF377BA1DDDE77A00FFA748 /* Info.plist */,
@@ -399,7 +394,6 @@
 				AEF377DE1DDDE7B900FFA748 /* XYTabbar.m in Sources */,
 				AEF377AB1DDDE77A00FFA748 /* main.m in Sources */,
 				AEF377E71DDDE86B00FFA748 /* MainViewController.m in Sources */,
-				AEF378241DE3329500FFA748 /* XYView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
